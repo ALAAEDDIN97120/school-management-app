@@ -4,24 +4,6 @@
 A modern and responsive **school management dashboard** built with **React**, **Next.js 15**, and **Tailwind CSS**.  
 It features beautiful layouts and dynamic components tailored for four types of users: **Admin**, **Teacher**, **Student**, and **Parent**.
 
-> 🔗 **Live Demo**: [school-management-app-steel.vercel.app/admin](https://school-management-app-steel.vercel.app/admin)
-
----
-
-## 📸 Preview
-
-### 🧑‍💼 Admin Dashboard
-![admin-dashboard](https://github.com/user-attachments/assets/b9b4cd9c-ebfb-4912-8ef1-d5e0190fbf93)
-
-
-### 👨‍🎓 Student Dashboard
-![student-dashboard](https://github.com/user-attachments/assets/45463147-4347-431a-b3fa-04de6044e7f8)
-
-
-
-
----
-
 ## ✨ Features
 
 - ⚙️ Role-based dashboards: Admin, Teacher, Student, and Parent
@@ -67,15 +49,6 @@ npm run dev
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
-## 📸 Preview
-
-### 🧑‍💼 Admin Dashboard
-![admin-dashboard](https://github.com/user-attachments/assets/b9b4cd9c-ebfb-4912-8ef1-d5e0190fbf93)
-
-
-### 👨‍🎓 Student Dashboard
-![student-dashboard](https://github.com/user-attachments/assets/45463147-4347-431a-b3fa-04de6044e7f8)
-
 ## 🧭 Pages Structure
 
 * `/admin` — Admin Dashboard
@@ -84,6 +57,17 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 * `/parent` — Parent Dashboard
 
 Each dashboard contains relevant features, charts, and data tables designed for that user role.
+
+---
+
+## 📸 Preview
+
+### 🧑‍💼 Admin Dashboard
+![admin-dashboard](https://github.com/user-attachments/assets/b9b4cd9c-ebfb-4912-8ef1-d5e0190fbf93)
+
+
+### 👨‍🎓 Student Dashboard
+![student-dashboard](https://github.com/user-attachments/assets/45463147-4347-431a-b3fa-04de6044e7f8)
 
 ---
 
