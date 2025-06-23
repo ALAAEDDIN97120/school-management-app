@@ -10,16 +10,12 @@ It features beautiful layouts and dynamic components tailored for four types of 
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](https://i.imgur.com/GDDkVR0.png)
+![admin-dashboard](https://github.com/user-attachments/assets/b9b4cd9c-ebfb-4912-8ef1-d5e0190fbf93)
+
 
 ### 👨‍🎓 Student Dashboard
-![Student Dashboard](https://i.imgur.com/fKZNyUi.png)
-
-
-
+![student-dashboard](https://github.com/user-attachments/assets/45463147-4347-431a-b3fa-04de6044e7f8)
 
 
 
@@ -71,6 +67,14 @@ npm run dev
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
+## 📸 Preview
+
+### 🧑‍💼 Admin Dashboard
+![admin-dashboard](https://github.com/user-attachments/assets/b9b4cd9c-ebfb-4912-8ef1-d5e0190fbf93)
+
+
+### 👨‍🎓 Student Dashboard
+![student-dashboard](https://github.com/user-attachments/assets/45463147-4347-431a-b3fa-04de6044e7f8)
 
 ## 🧭 Pages Structure
 
