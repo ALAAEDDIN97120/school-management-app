@@ -10,12 +10,14 @@ It features beautiful layouts and dynamic components tailored for four types of 
 
 ## 📸 Preview
 
-### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](https://user-images.githubusercontent.com/123456789/admin-dashboard.png)
+## 📸 Preview
 
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](https://i.imgur.com/GDDkVR0.png)
 
 ### 👨‍🎓 Student Dashboard
-![Student Dashboard](https://github.com/user-attachments/assets/ab6ae2b3-d05b-4e8c-aafe-fdc528d9d3d5)
+![Student Dashboard](https://i.imgur.com/fKZNyUi.png)
+
 
 
 
