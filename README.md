@@ -11,7 +11,8 @@ It features beautiful layouts and dynamic components tailored for four types of 
 ## 📸 Preview
 
 ### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](https://github.com/user-attachments/assets/e00fcd9d-8485-4f3d-8c11-e4b761c2e5fd)
+![Admin Dashboard](https://user-images.githubusercontent.com/123456789/admin-dashboard.png)
+
 
 ### 👨‍🎓 Student Dashboard
 ![Student Dashboard](https://github.com/user-attachments/assets/ab6ae2b3-d05b-4e8c-aafe-fdc528d9d3d5)
