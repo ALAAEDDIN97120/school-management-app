@@ -24,8 +24,8 @@ const columns = [
 		accessor: "info",
 	},
 	{
-		header: "ٍStudent ID",
-		accessor: "ٍStudentId",
+		header: "Student ID",
+		accessor: "StudentId",
 		className: "hidden md:table-cell",
 	},
 	{

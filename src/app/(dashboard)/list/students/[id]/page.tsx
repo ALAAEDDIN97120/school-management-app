@@ -31,7 +31,6 @@ const SingleStudentPage = () => {
 							<p className="text-sm text-gray-500">
 								Lorem ipsum dolor sit amet consectetur adipisicing elit.{" "}
 							</p>
-
 							<div className="flex justify-between items-center flex-wrap gap-2 text-xs font-medium">
 								<div className="w-full md:w-1/3 lg:w-full 2xl:w-1/3 flex items-center gap-2">
 									<Image alt="" src="/blood.png" width={14} height={14} />
